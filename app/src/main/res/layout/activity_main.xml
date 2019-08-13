@@ -42,6 +42,7 @@
                     android:padding="0dp"
                     android:adjustViewBounds="true"
                     style="@style/imgStyle"
+                    android:contentDescription="@string/beach_cliff"
             />
 
     </LinearLayout>
@@ -51,7 +52,8 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/abstract_abstract_expressionism_art_2505693"
                     android:adjustViewBounds="true"
-                    style="@style/imgStyle"/>
+                    style="@style/imgStyle"
+                    android:contentDescription="@string/flowers"/>
         </LinearLayout>
     </LinearLayout>
 
